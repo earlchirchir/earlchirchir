@@ -21,5 +21,5 @@ C/C++ · Arduino · ESP32 · PlatformIO · MATLAB/Simulink · RoboDK · Siemens 
 
 ## Education
 - MSc Mechatronic Systems (Distinction), Kingston University London
-- BSc Mechatronic Engineering, Jomo Kenyatta University of Agriculture and Technology (JKUAT)
+- BSc Mechatronic Engineering (Second Class Honours, Upper Division), Jomo Kenyatta University of Agriculture and Technology (JKUAT)
 - Registered Graduate Engineer, Engineers Board of Kenya (the national engineering regulator)
